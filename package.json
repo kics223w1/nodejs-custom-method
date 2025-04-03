@@ -1,0 +1,16 @@
+{
+  "name": "custom-method-server",
+  "version": "1.0.0",
+  "description": "A simple HTTP server that accepts any custom HTTP method",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "http",
+    "server",
+    "custom-method"
+  ],
+  "author": "",
+  "license": "MIT"
+}
